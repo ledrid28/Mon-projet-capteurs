@@ -1,4 +1,4 @@
-* [Introduction](docs/introduction.md)
+* [Introduction](docs/Introduction.md)
 * [Branchement Raspberry–Arduino](docs/setup_raspberry.md)
 * [Installation et configuration Arduino](docs/setup_arduino.md)
 * [Collecte des données](docs/mesures.md)
